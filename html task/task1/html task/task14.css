@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffcc;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .article {
+    border: 2px solid #000;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: white;
+  }
+  
+  .yellow-box {
+    background-color: #ffffe0;
+    border-color: #ffd700;
+  }
+  
+  .red-box {
+    background-color: #ffe4e1;
+    border-color: #ff0000;
+    border-style: dashed;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .highlight {
+    background-color: yellow;
+    font-weight: bold;
+  } 
